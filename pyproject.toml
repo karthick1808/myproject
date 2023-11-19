@@ -1,0 +1,6 @@
+[tool.pytest]
+addopts = ["-v", "-ra"]
+testpaths = ["tests"]
+
+[tool.pybuilder]
+sources-root = "src/main/python"
