@@ -1,0 +1,8 @@
+setuptools
+pybuilder
+pytest
+pytest-flake8
+pylint
+bandit
+prometheus_client
+requests
