@@ -1,4 +1,4 @@
-from pybuilder.core import use_plugin, init
+from pybuilder.core import use_plugin, init, task
 
 use_plugin("python.core")
 use_plugin("python.unittest")
